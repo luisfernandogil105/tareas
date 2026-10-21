@@ -1,0 +1,1 @@
+Esta es una aplicación que me permite a traves del CLI agregar, consultar, modificar y borrar tareas (CRUD)

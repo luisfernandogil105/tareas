@@ -1,0 +1,3 @@
+# Archivos de datos del proyecto que deseamos que se ignoren cuando se suban al repositorio
+tareas.json
+*.json
